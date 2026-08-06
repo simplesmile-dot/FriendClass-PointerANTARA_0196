@@ -1,5 +1,4 @@
-#include <iostream>//7
-#include <string>
+#include <iostream>//8
 using namespace std;
 
 class siswa;
